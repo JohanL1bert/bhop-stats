@@ -1,0 +1,10 @@
+#environment
+
+.env
+.env.dev
+
+# node
+/node_modules
+
+# yarn.lock
+yarn.lock
